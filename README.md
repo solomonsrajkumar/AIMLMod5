@@ -8,6 +8,7 @@ Explore the Jupyter notebook below with in-depth analysis and insights:
 https://github.com/solomonsrajkumar/AIMLMod5/blob/main/Coupon_Analysis5.ipynb
 
 🔑 Key Features Considered
+
 Age
 Income
 Passengers
