@@ -5,14 +5,19 @@ This project aims to predict coupon acceptance among drivers who visit bars. Usi
 
 Notebooks
 Explore the Jupyter notebook below with in-depth analysis and insights:
+https://github.com/solomonsrajkumar/AIMLMod5/blob/main/Coupon_Analysis5.ipynb
 
-**Data Analysis and Insights ** – Data analysis.
 🔑 Key Features Considered
 Age
 Income
 Passengers
+Coupon Types
 Frequency of visits to the Bar
-📊 Key Findings
-Coupon acceptance is high among drivers who traveled with friends.
-Coupon acceptance has a positive regression with the number of visits.
-Age also plays an important role in the acceptance of the coupons. higher the age people accepted the coupons more.
+
+Key Findings
+
+Drivers accompanied by friends are more likely to accept bar coupons compared to those traveling alone or with family.
+
+Coupon acceptance increases with bar visit frequency, suggesting a positive relationship between familiarity with bars and willingness to use coupons.
+
+Age influences coupon acceptance, with older age groups showing higher acceptance rates than younger drivers.
