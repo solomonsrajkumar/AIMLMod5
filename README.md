@@ -10,10 +10,15 @@ https://github.com/solomonsrajkumar/AIMLMod5/blob/main/Coupon_Analysis5.ipynb
 🔑 Key Features Considered
 
 Age
+
 Income
+
 Passengers
+
 Coupon Types
+
 Frequency of visits to the Bar
+
 
 Key Findings
 
